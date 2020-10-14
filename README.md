@@ -30,10 +30,3 @@ Stacks I have worked with : MERN , MEVN , React+Firebase , Vue+Firebase, Angular
 
 <!-- reference : https://github.com/josecamposhz/github-readme-stats -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josecamposhz)](https://github.com/josecamposhz/github-readme-stats)
-
-### Social
-<!--
-reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
--->
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/josé-luis-campos-huiriqueo/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/josecamposhz/)
