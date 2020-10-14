@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm [José](https://github.com/josecamposhz) 👨‍💻
 
-### I'm José Campos,
-
 <br/>
 
 <a href="https://www.linkedin.com/in/josé-luis-campos-huiriqueo/">
